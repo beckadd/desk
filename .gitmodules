@@ -1,0 +1,21 @@
+[submodule "vaughan"]
+	path = vaughan
+	url = git@github.com:beckadd/vaughan.git
+[submodule "mendel"]
+	path = mendel
+	url = git@github.com:beckadd/mendel.git
+[submodule "cicero"]
+	path = cicero
+	url = git@github.com:beckadd/cicero.git
+[submodule "rockwell"]
+	path = rockwell
+	url = git@github.com:beckadd/rockwell.git
+[submodule "laozi"]
+	path = laozi
+	url = git@github.com:beckadd/laozi.git
+[submodule "stowe"]
+	path = stowe
+	url = git@github.com:beckadd/stowe.git
+[submodule "models"]
+	path = models
+	url = git@github.com:beckadd/models.git
